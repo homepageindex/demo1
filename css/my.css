@@ -1,0 +1,31 @@
+body{background: #F6F6F6;}
+/*我的开始*/
+/*头部公用部分开始*/
+.ma-top{position: relative;}
+.top-one{width:100%;height: 1rem;background: #fff;position: fixed;z-index: 5;display: flex;border-bottom: .2rem solid #F5F5F5;}
+.top-one .wde{font-size:.4rem;color: #000;line-height: 1rem;margin: 0 auto;}
+.top-one .bjzl{font-size:.2rem;color: #000;line-height:1rem;float: right;margin-right:.3rem;}
+.top-two{position: fixed;bottom: 0;z-index:5;}
+.top-two ul{display:flex;}
+.top-two ul li{flex:5;}
+/*头部公用部分结束*/
+.sczp{width:100%;height:2.2rem;background: #fff;padding-top:1.2rem;}
+.sczp .sczp-one{width:85%;margin:.3rem auto;height: 1.6rem;display: flex;}
+.sczp .sczp-one img{width:47%;}
+.xming{margin-left: -1.2rem;}
+.xming h1{font-size: .4rem;font-weight:bolder}
+.xming p{margin-top: .1rem;}
+.wdtg-one{margin:.3rem auto;}
+.wdtg-one ul{display: flex;}
+.wdtg-one ul li{flex: 3;}
+
+
+
+
+
+
+
+
+
+
+/*我的结束*/
